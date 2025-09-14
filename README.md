@@ -22,3 +22,7 @@ id	INT	Primary Key, AUTO_INCREMENT
 name	VARCHAR	Not Null
 email	VARCHAR	Not Null, Unique
 created_at	TIMESTAMP	Default: CURRENT_TIMESTAMP
+
+4. Git Workflow
+File: git_workflow.txt
+Contains the Git steps used for version control:
